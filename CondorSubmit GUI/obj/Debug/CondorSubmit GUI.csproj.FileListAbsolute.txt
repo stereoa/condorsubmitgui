@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit GUI.pdb
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit GUI.pdb
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Main.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Properties.Resources.resources

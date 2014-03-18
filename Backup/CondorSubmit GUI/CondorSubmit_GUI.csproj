@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20F8A84D-0EEF-4265-ACBD-937CD9E69100}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CondorSubmitGUI</RootNamespace>
+    <AssemblyName>CondorSubmit_GUI</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>pinnacleicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>\\Pinmapnas01\projects\3.CONDOR\CondorSubmit GUI\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BitMiracle.LibTiff.NET, Version=2.3.597.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\BitMiracle.LibTiff.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="JobStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobStatus.Designer.cs">
+      <DependentUpon>JobStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditImagePaths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditImagePaths.Designer.cs">
+      <DependentUpon>EditImagePaths.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListViewColumnSorter.cs" />
+    <Compile Include="CondorSubmitGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CondorSubmitGUI.Designer.cs">
+      <DependentUpon>CondorSubmitGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Objects\Geometry\BoundingBox.cs" />
+    <Compile Include="Objects\Geometry\Point.cs" />
+    <Compile Include="Objects\Geometry\Polygon.cs" />
+    <Compile Include="Objects\Ortho\ATBlock.cs" />
+    <Compile Include="Objects\Ortho\ATProject.cs" />
+    <Compile Include="Objects\Geometry\Line.cs" />
+    <Compile Include="Objects\Ortho\ElevationTile.cs" />
+    <Compile Include="Objects\Ortho\SpatialObject.cs" />
+    <Compile Include="Objects\Queue\Job.cs" />
+    <Compile Include="Objects\Queue\LogEvents.cs" />
+    <Compile Include="Objects\Ortho\Photo.cs" />
+    <Compile Include="Objects\Ortho\RectifyJob.cs" />
+    <Compile Include="PriorityWarning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriorityWarning.Designer.cs">
+      <DependentUpon>PriorityWarning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="EditImagePaths.resx">
+      <DependentUpon>EditImagePaths.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CondorSubmitGUI.resx">
+      <DependentUpon>CondorSubmitGUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobStatus.resx">
+      <DependentUpon>JobStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriorityWarning.resx">
+      <DependentUpon>PriorityWarning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CondorQueue.resx">
+      <DependentUpon>CondorQueue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RadiancePreview.resx">
+      <DependentUpon>RadiancePreview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CondorQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CondorQueue.Designer.cs">
+      <DependentUpon>CondorQueue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RadiancePreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RadiancePreview.Designer.cs">
+      <DependentUpon>RadiancePreview.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pinnacleicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

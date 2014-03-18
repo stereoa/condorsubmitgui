@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Release\CondorSubmit GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Release\CondorSubmit GUI.pdb
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\CondorSubmitGUI.Main.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\CondorSubmitGUI.Properties.Resources.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\CondorSubmit GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\CondorSubmit GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Release\CondorSubmit GUI.pdb
+\\Pinmapnas01\projects\3.CONDOR\CondorSubmit GUI.exe
+\\Pinmapnas01\projects\3.CONDOR\CondorSubmit GUI.pdb

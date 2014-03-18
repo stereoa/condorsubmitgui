@@ -1,0 +1,13 @@
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\x86\Release\CondorSubmit_GUI.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\x86\Release\CondorSubmit_GUI.pdb
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\x86\Release\BitMiracle.LibTiff.NET.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.EditImagePaths.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.CondorSubmitGUI.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.JobStatus.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.PriorityWarning.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.Properties.Resources.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.CondorQueue.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmitGUI.RadiancePreview.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmit_GUI.csproj.GenerateResource.Cache
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmit_GUI.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\x86\Release\CondorSubmit_GUI.pdb

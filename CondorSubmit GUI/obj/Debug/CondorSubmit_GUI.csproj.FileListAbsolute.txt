@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Properties.Resources.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.pdb
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.exe
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.pdb
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.EditImagePaths.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.RadiancePreview.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.CondorQueue.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.exe
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.pdb
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.exe
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.pdb
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.EditImagePaths.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Main.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Properties.Resources.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.CondorQueue.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.RadiancePreview.resources
+C:\Users\administrator\Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.PriorityWarning.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.CondorSubmitGUI.resources
+C:\Documents and Settings\Administrator.PINNACLEMAPPING\My Documents\Visual Studio 2008\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.JobStatus.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.pdb
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\CondorSubmit_GUI.pdb
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.EditImagePaths.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.CondorSubmitGUI.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.JobStatus.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.PriorityWarning.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.Properties.Resources.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.CondorQueue.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmitGUI.RadiancePreview.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.csproj.GenerateResource.Cache
+C:\Users\Geoffrey\Documents\Visual Studio 2013\Projects\CondorSubmit GUI\CondorSubmit GUI\obj\Debug\CondorSubmit_GUI.csprojResolveAssemblyReference.cache
